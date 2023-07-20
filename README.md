@@ -1,16 +1,9 @@
-# Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+# Medical Insurance Premium Prediction with Machine Learning
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+The purpose of this project was to create predictive models capable of estimating health insurance costs for individuals. By leveraging machine learning algorithms and techniques, we aimed to develop accurate models that could assist in assessing insurance premiums and understanding the impact of different variables on the costs.
 
 ### Methods Used
 * Inferential Statistics
@@ -20,13 +13,8 @@ The purpose of this project is ________. (Describe the main goals of the project
 * etc.
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
 * etc. 
 
 ## Project Description
