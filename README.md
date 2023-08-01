@@ -18,23 +18,10 @@ The purpose of this project was to create predictive models capable of estimatin
 * etc. 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+* Objective: The main objective of this personal data science project is to develop predictive models capable of estimating health insurance costs for individuals. By leveraging machine learning algorithms and techniques, the aim is to create accurate models that can assist in assessing insurance premiums and understanding the impact of different variables on the costs.
+  
+* Data Source: A dataset with 1338 observations was obtained from Kaggle, containing information such as age, gender, BMI, number of children, smoking habit, and geolocation. The dataset was checked for null values and found to be complete.
 
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* Models Used:
+   * Linear Regression Model: Feature engineering was performed to convert categorical variables (gender, smoking habit, and region) into numerical ones. The dataset was split into training and testing sets, and linear regression was applied after scaling the data.
+   * Artificial Neural Network (ANN) Regression Model: Constructed using the Keras library, the ANN model consisted of multiple layers with varying activation functions. The model was compiled with the 'mean_squared_error' loss function and optimized using the Adam optimizer. The dataset was split into training and testing sets for model training.
