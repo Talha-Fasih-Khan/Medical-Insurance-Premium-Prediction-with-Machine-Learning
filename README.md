@@ -25,3 +25,8 @@ The purpose of this project was to create predictive models capable of estimatin
 * Models Used:
    * Linear Regression Model: Feature engineering was performed to convert categorical variables (gender, smoking habit, and region) into numerical ones. The dataset was split into training and testing sets, and linear regression was applied after scaling the data.
    * Artificial Neural Network (ANN) Regression Model: Constructed using the Keras library, the ANN model consisted of multiple layers with varying activation functions. The model was compiled with the 'mean_squared_error' loss function and optimized using the Adam optimizer. The dataset was split into training and testing sets for model training.
+
+## Deliverables
+* [Medical Insurance Premium Prediction with Machine Learning (Slide Deck)](https://docs.google.com/presentation/d/1HCleoU3gbLfdcaBHIWSAJNVzUDCRQhRNLMxncyHnO5Q/edit?usp=sharing)
+
+* [Medical Insurance Premium Prediction with Machine Learning (Notebook)](https://github.com/Talha-Fasih-Khan/Machine-Learning-for-Kyphosis-Disease-Classification/blob/321a49bd287233794e514b35c5a01f7cb8a8c032/Machine%20Learning%20for%20Kyphosis%20Disease%20Classification.ipynb)
