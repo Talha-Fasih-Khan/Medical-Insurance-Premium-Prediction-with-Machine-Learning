@@ -29,4 +29,4 @@ The purpose of this project was to create predictive models capable of estimatin
 ## Deliverables
 * [Medical Insurance Premium Prediction with Machine Learning (Slide Deck)](https://docs.google.com/presentation/d/1HCleoU3gbLfdcaBHIWSAJNVzUDCRQhRNLMxncyHnO5Q/edit?usp=sharing)
 
-* [Medical Insurance Premium Prediction with Machine Learning (Notebook)](https://github.com/Talha-Fasih-Khan/Machine-Learning-for-Kyphosis-Disease-Classification/blob/321a49bd287233794e514b35c5a01f7cb8a8c032/Machine%20Learning%20for%20Kyphosis%20Disease%20Classification.ipynb)
+* [Medical Insurance Premium Prediction with Machine Learning (Notebook)](https://github.com/Talha-Fasih-Khan/Medical-Insurance-Premium-Prediction-with-Machine-Learning/blob/53e788dbcbb2e12bcd1a8741e5d3f14e0539ba2c/Medical%20Insurance%20Premium%20Prediction%20with%20Machine%20Learning.ipynb)
